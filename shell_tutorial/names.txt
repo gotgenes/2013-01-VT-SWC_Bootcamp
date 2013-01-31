@@ -1,0 +1,6 @@
+Guido van Rossum
+Charles Babbage
+Grace Hopper
+Alan Turing
+Frances Allen
+John von Neumann
