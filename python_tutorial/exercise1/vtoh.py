@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 """Contains a function to convert vertical text files to horizontal
 text.
 

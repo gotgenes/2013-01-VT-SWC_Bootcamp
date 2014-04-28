@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # import some standard library modules here???
 import ???
 
@@ -23,6 +21,6 @@ import vtoh
     # 3. open the output file
 
 
-    # write the horizontal string to the output file (don't forget to
-    # add the terminal newline!)
+    # write the horizontal string to the output file; don't forget to
+    # end with the terminal newline (i.e., "\n")!
 
