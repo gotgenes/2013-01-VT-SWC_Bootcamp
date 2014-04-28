@@ -33,7 +33,7 @@ returns this string.
 
 Next, write a script called `vfile_converter.py`, which takes as
 command line arguments one or more files. (HINT: There is also a Python
-library module to help you get command line **sys**tem **arg**uments.)
+library module to help you get command line <b>sys</b>tem <b>arg</b>uments.)
 `vfile_convertert.py` should then do the following for each file
 
 1. open the file
@@ -42,8 +42,8 @@ library module to help you get command line **sys**tem **arg**uments.)
 3. Output the horizontal text string to a file with the same base name
    as the original, but the extension `.out` instead of `.txt` (e.g.,
    `somefile.txt` will have its output written to `somefile.out`) (HINT:
-   There is a Python library module to help you work with **o**perating
-   **s**ystem **path**s that can **split** filenames into their basename
+   There is a Python library module to help you work with <b>o</b>perating
+   <b>s</b>ystem <b>path</b>s that can **split** filenames into their basename
    (e.g., `somefile`) and extension (e.g., `.txt`)
 
 
